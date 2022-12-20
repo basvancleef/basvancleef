@@ -1,4 +1,4 @@
-## Hey 👋, I'm Bas van Cleef!
+## Hey 👋,
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean erat purus, mollis ac sollicitudin sed, tempor et felis. Duis interdum ultrices turpis in imperdiet. Donec vitae erat at diam consequat ultricies.
 <br/>
@@ -6,20 +6,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean erat purus, moll
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/basvancleef/basvancleef/main/techstack.gif" width="360px"/>
   
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **My Personal Portfolio**
-- 🌱 &nbsp; I’m currently learning Laravel; 
+### Information
+ 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/basvancleef?tab=repositories)
-- 🎨 &nbsp; Creating webdesigns
 - 💬 &nbsp; If you have questions or need help, message me on Discord (Bas#4574)
 - 📫 &nbsp; Check my [LinkedIn](https://www.linkedin.com/in/bas-van-cleef)
 - 📝 &nbsp; Checkout my [resume](https://www.basvancleef.nl/resume)
-- 📚 &nbsp; When I am free, I like learning new languages and frameworks.
 
 <br>
 
-### 🔨 Languages and Tools:
+### Languages and Tools:
 <a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
