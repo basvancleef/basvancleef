@@ -1,51 +1,31 @@
-## Hey 👋,
+# Hello World! 👋
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean erat purus, mollis ac sollicitudin sed, tempor et felis. Duis interdum ultrices turpis in imperdiet. Donec vitae erat at diam consequat ultricies.
-<br/>
-<br/>
+![Static Badge](https://img.shields.io/badge/Available-52C62A?style=flat&label=Status&labelColor=5B5B5B)
+![Static Badge](https://visitor-badge.lithub.cc/badge?page_id=github.com/basvancleef&left_text=Visitors)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/basvancleef/basvancleef/main/techstack.gif" width="360px"/>
-  
-### Information
+<div>
+    <p>
+        I am **Bas van Cleef**, a FullStack Developer from The Netherlands 🇳🇱. I am passionate about building new things and learning new technologies. I am currently working as a developer at <a href="https://bttr.nl/">BTTR</a>.
+    </p>
  
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/basvancleef?tab=repositories)
-- 💬 &nbsp; If you have questions or need help, message me on Discord (Bas#4574)
-- 📫 &nbsp; Check my [LinkedIn](https://www.linkedin.com/in/bas-van-cleef)
-- 📝 &nbsp; Checkout my [resume](https://www.basvancleef.nl/resume)
+    💻 FullStack Developer
+    🌱 Learning new things everyday
+    🚀 JavaScript | TypeScript | Laravel | GraphQL | MySQL | NuxtJS
+    🌍 Visit my portfolio https://basvancleef.com
+    📫 Connect with me on my socials
+</div>
 
-<br>
+![Static Badge](https://img.shields.io/badge/Github-161515?style=flat&logo=Github&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Instagram-5851DB?style=flat&logo=Instagram&logoColor=FFFFFF&link=https%3A%2F%2Fwww.instagram.com%2Fbasvancleef%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-0376B5?style=flat&logo=LinkedIn&logoColor=FFFFFF&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbas-van-cleef%2F)
+![Static Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=FFFFFF&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F0EppSdPiEu8er3yRcuITqR%3Fsi%3Dee403bc3d8034bd0)
+![Static Badge](https://img.shields.io/badge/Discord-%235462eb?style=flat&logo=discord&logoColor=FFFFFF)
 
-### Languages and Tools:
-<a href="https://html.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height="42px"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://vuejs.org/" target="_blank"> <img align="left" alt="Vue" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"></a>
-<a href="https://nuxtjs.org/" target="_blank"> <img align="left" alt="Nuxt" height ="42px" width="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png"></a>
-<a href="https://laravel.com/" target="_blank"> <img align="left" alt="Laravel" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"></a>
-<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind" height ="42px" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4"></a>
-<a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bootstrap/bootstrap.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+## Technologies & Tools
+[![](https://skillicons.dev/icons?i=gitlab,github,html,css,js,ts,nuxt,kotlin,nodejs,python,git,laravel,nuxt,figma)](https://skillicons.dev)
 
-<br>
-
-### 📊 Github Stats
+## Github stats
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basvancleef&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basvancleef&layout=compact&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basvancleef&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basvancleef&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />&nbsp;&nbsp;
 </p>
-  
-![Stats Overview](https://github.com/basvancleef/github-stats-transparent/blob/output/generated/overview.svg)
-![Most Used Languages](https://github.com/basvancleef/github-stats-transparent/blob/output/generated/languages.svg)
-
-</a>
-
-<br>
-
-### 🛠️ My Projects
