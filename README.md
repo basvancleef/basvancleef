@@ -21,9 +21,6 @@
 ![Static Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=Spotify&logoColor=FFFFFF&link=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F0EppSdPiEu8er3yRcuITqR%3Fsi%3Dee403bc3d8034bd0)
 ![Static Badge](https://img.shields.io/badge/Discord-%235462eb?style=flat&logo=discord&logoColor=FFFFFF)
 
-## Technologies & Tools
-[![](https://skillicons.dev/icons?i=gitlab,github,html,css,js,ts,nuxt,kotlin,nodejs,python,git,laravel,nuxt,figma)](https://skillicons.dev)
-
 ## Github stats
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=basvancleef&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />&nbsp;&nbsp;
